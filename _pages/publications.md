@@ -133,7 +133,8 @@ Andrea Bianchi, Ian Oakley and Hyoungshick Kim. 2016. **PassBYOP: Bring Your Own
 Andrea Bianchi and Ian Oakley. **Wearable authentication: Trends and opportunities**. In _it - Information Technology_. Volume 58, Issue 5, Pages 255-262, July 2016 (invited paper). DOI: [https://doi.org/10.1515/itit-2016-0010](https://doi.org/10.1515/itit-2016-0010)
 
 ---
-<!-- 
+
 # Patents
 
-TOFILL -->
+Andrea Bianchi , Seungwoo Je. **Vibration generating device wearable on finger and method performing operation corresponding to vibration information** (No. 10-1970534, Korea Patent) 2019.04.15, _ISSUED_. 
+
