@@ -136,5 +136,19 @@ Andrea Bianchi and Ian Oakley. **Wearable authentication: Trends and opportuniti
 
 # Patents
 
+Andrea Bianchi, Youngkyung Choi, Myung Jin Kim, Artem Dementyev. **Method and apparatus for printing electrical circuit directly on target surface having 3-dimensional shape, 3D printer used for the same and electical device having electrical circuit printed by the same** (Filed No. 10-2021-0006204, Korea Patent), _Patent Pending_.
+
+Andrea Bianchi, Neung Ryu, Woojin Lee, Myung Jin Kim. **Apparatus and method for rendering dynamic haptic response of flexible object** (Filed No. 10-2020-0189658, Korea Patent), _Patent Pending_.
+
+Seungwoo Je, Andrea Bianchi, Minkyeong Lee, Yoonji Kim, Liwei Chan, Xing-Dong Yang. **Ring-shaped wearable apparatus for transferring information through poke and method for controlling the same** (No. 10-2035474, Korea Patent), 2019.10.17, _ISSUED_.
+
 Andrea Bianchi , Seungwoo Je. **Vibration generating device wearable on finger and method performing operation corresponding to vibration information** (No. 10-1970534, Korea Patent) 2019.04.15, _ISSUED_. 
+
+Andrea Bianchi, Minkyeong Lee, Seungwoo Je, Woojin Lee, Daniel Ashbrook. **Ear-mounted vibrational wearable apparatus and method for controlling motion thereof** (Filed No. 10-2019-0137884, Korea Patent), _Patent Pending_.
+
+Seungwoo Je, Andrea Bianchi, Young Min Jo, Junkyu Kim, Duck-Joo Lee. **Kinesthetic-feedback wearable apparatus for virtual reality or augmented reality and method for controlling the same** (Filed No. US20190321724A1 US Patent), _Patent Pending_.
+
+Seungwoo Je, Andrea Bianchi, Brendan Rooney, Liwei Chan. **Wearable apparatus having ring shape and method for controlling motion thereof** (No. 10-1863183, Korea Patent) 2018.05.25, _ISSUED_.
+
+Seungwoo Je, Andrea Bianchi, Young Min Jo, Junkyu Kim, Duck-Joo Lee. **Kinesthetic-feedback wearable apparatus for virtual reality or augmented reality and method for controlling the same** (Filed No. 10-2018-0046244, Korea Patent), _Patent Pending_.
 
