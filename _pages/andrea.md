@@ -29,8 +29,8 @@ subtitle: Associate Professor - Lab director
         width: 200px;
     }
 
-  
-  
+
+
     .links {
         display: flex;
         justify-content: space-between;
@@ -46,7 +46,6 @@ subtitle: Associate Professor - Lab director
 </style>
 </head>
 
-
 <div class="profile">
 <img src="/images/people/andrea_bianchi.jpg" alt="{{prof.name}}" class="rounded-circle">
 <div class="description">
@@ -59,80 +58,90 @@ subtitle: Associate Professor - Lab director
     <a href="https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0"><i class="fas fa-2x fa-file" aria-hidden="true"></i></a>
     <a href="http://github.com/{{prof.github}}"><i class="fab fa-2x fa-github" aria-hidden="true"></i></a>
     <a href="https://www.linkedin.com/in/{{prof.linkedin}}"><i class="fab fa-2x fa-linkedin-in" aria-hidden="true"></i></a>
+    <a href="https://twitter.com/{{prof.twitter}}"><i class="fab fa-2x fa-twitter" aria-hidden="true"></i></a>
     <a href="https://scholar.google.co.kr/citations?user={{prof.scholar}}"><i class="fas fa-2x fa-graduation-cap" aria-hidden="true"></i></a>
     <a href="#" onclick="(function(){window.open('mailto:{{ prof.email }}');})()"><i class="fas fa-2x fa-envelope"></i></a>
     </div>
 
     </div>
+
 </div>
 
-
 ## Short Bio
+
 Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) in 2012, his Master's in Computer Science from [NYU](http://www.nyu.edu) and his Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home). Before joining [KAIST](https://id.kaist.ac.kr), he worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York startup after earning his Master's degree. Andrea has an _Erdős number_ of 3 and collects [eyeglasses](https://alsoplantsfly.com/images/pictures/profile/glasses.jpg).
 
 ## Experience
 
 **KAIST**
-* **Associate Professor** - Department of Industrial Design (9/2019 - present)
-* **Assistant Professor** - Department of Industrial Design (9/2015 - 8/2019)
+
+- **Associate Professor** - Department of Industrial Design (9/2019 - present)
+- **Assistant Professor** - Department of Industrial Design (9/2015 - 8/2019)
 
 **Sungkyunkwan University**
-* **Assistant Professor** - Department of Computer Science (3/2013 - 8/2015)
 
+- **Assistant Professor** - Department of Computer Science (3/2013 - 8/2015)
 
-## Awards 
-* **KAIST 2020 Technology Innovation Award (공과대학 2020 기술혁신 우수상)**
-* **Excellence Teaching Award Fall 2017** Industrial Design, KAIST
-* **Best Paper Award** UIST 2020
-* **Best Paper Award** MobileHCI 2013
-* **Best Paper Award** HCI Korea 2018
-* **Best Paper Award** HCI Korea 2015
-* **Honorable Mention Award** MobileHCI 2017
-* **Honorable Mention Award** MobileHCI 2016
-* **Best Poster Award** UIST 2016
+## Awards
 
+- **KAIST 2020 Technology Innovation Award (공과대학 2020 기술혁신 우수상)**
+- **Excellence Teaching Award Fall 2017** Industrial Design, KAIST
+- **Best Paper Award** UIST 2020
+- **Best Paper Award** MobileHCI 2013
+- **Best Paper Award** HCI Korea 2018
+- **Best Paper Award** HCI Korea 2015
+- **Honorable Mention Award** MobileHCI 2017
+- **Honorable Mention Award** MobileHCI 2016
+- **Best Poster Award** UIST 2016
 
 ## Academic Services
+
 **Program committee and editor**
-* CHI 2015/16/18/19/21
-* UIST 2020
-* DIS 2018/20
-* TEI 2016/18
-* SIGGRAPH E-Tech 2019
-* IEEE TOH 2020/2021 guest editor
-* Eurohaptics 2018
-* DESFORM 2017
-* IMCOM 2015
+
+- CHI 2015/16/18/19/21
+- UIST 2020
+- DIS 2018/20
+- TEI 2016/18
+- SIGGRAPH E-Tech 2019
+- IEEE TOH 2020/2021 guest editor
+- Eurohaptics 2018
+- DESFORM 2017
+- IMCOM 2015
 
 **Conference chair**
-* TEI 2022 poster co-chair
-* TEI 2020 Student design challenge co-chair
-* TEI 2017 WIP chair
-* Korea HCI 2021 International Chair
-* Mobile HCI 2021 poster co-chair
-* Mobile HCI 2019 Web chair 
-* ISS 2019 Poster co-chair 
-* Asia Haptics 2018 demo co-chair
-* IEEE World Haptics 2013 art chair 
-* HAID 2013 poster chair
 
+- TEI 2022 poster co-chair
+- TEI 2020 Student design challenge co-chair
+- TEI 2017 WIP chair
+- Korea HCI 2021 International Chair
+- Mobile HCI 2021 poster co-chair
+- Mobile HCI 2019 Web chair
+- ISS 2019 Poster co-chair
+- Asia Haptics 2018 demo co-chair
+- IEEE World Haptics 2013 art chair
+- HAID 2013 poster chair
 
 ## Teaching
+
 **ID311 - Software Prototyping**
-* Fall: 2016, 2017
-* Spring: 2016, 2018-2020
+
+- Fall: 2016, 2017
+- Spring: 2016, 2018-2020
 
 **ID220 - Interaction Prototyping**
-* Fall: 2018-2020
+
+- Fall: 2018-2020
 
 **ID307 - Interface Design**
-* Spring 2016, 2017
+
+- Spring 2016, 2017
 
 ## Additional Resources
-* [My calendar](https://calendar.makinteract.com)
-* [Previous website](https://alsoplantsfly.com)
-* [YouTube channel](https://www.youtube.com/channel/UC5A_g3GYEGeoqBqSSJ11NoQ)
-* [Vimeo channel](https://vimeo.com/minimalo)
-* [About me page](https://about.me/andreabianchi)
-* [Department page](https://id.kaist.ac.kr)
-* [One page resume](https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0)
+
+- [My calendar](https://calendar.makinteract.com)
+- [Previous website](https://alsoplantsfly.com)
+- [YouTube channel](https://www.youtube.com/channel/UC5A_g3GYEGeoqBqSSJ11NoQ)
+- [Vimeo channel](https://vimeo.com/minimalo)
+- [About me page](https://about.me/andreabianchi)
+- [Department page](https://id.kaist.ac.kr)
+- [One page resume](https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0)
