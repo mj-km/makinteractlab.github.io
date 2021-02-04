@@ -5,7 +5,7 @@ year: 2021
 featured_image: /images/projects/toonnote.jpg # width must be 1600px
 # pdf_file: Lee_VirtualWire_TEI21.pdf # put file in the directory FILESii
 # doi_link: https://doi.org/
-featured: true
+featured: false
 ---
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/vWRRjfUocuw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
@@ -19,7 +19,6 @@ Computational notebooks help data analysts analyze and visualize datasets, and s
 ### References
 
 DaYe Kang, Tony Hoi, Nicolai Marquardt, Bilge Mutlu, and Andrea BIanchi. 2021. **ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics**. To appear in _CHI 2021_.
-
 
 <!-- DO NOT CHANGE MANUALLY -->
 

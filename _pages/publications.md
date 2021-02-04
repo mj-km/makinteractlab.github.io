@@ -23,8 +23,6 @@ description: Publications at MAKinteract lab
 
 <!-- MODIFY UNDER THIS LINE -->
 
-
-
 <!-- # Conference & Journal Papers -->
 
 ## 2021
@@ -36,6 +34,8 @@ Neung Ryu, Hye-Young Jo, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2021. 
 DaYe Kang, Tony Hoi, Nicolai Marquardt, Bilge Mutlu, and Andrea BIanchi. 2021. **ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics**. To appear in _CHI 2021_.
 
 Woojin Lee, Ramkrishna Prasad, Seungwoo Je, Yoonji Kim, Ian Oakley, Daniel Ashbrook , Andrea Bianchi. **VirtualWire: Supporting Rapid Prototyping with Instant Reconfigurations of Wires in Breadboarded Circuits**. To appear in _TEI 2021_.
+
+Myung Jin Kim and Andrea Bianchi. 2021. **Exploring Pseudo Hand-Eye Interaction on the Head-Mounted Display**. In Proceedings of _Augmented Humans 2021_.
 
 ---
 
@@ -54,7 +54,6 @@ Neung Ryu, Myung Jin Kim, and Andrea Bianchi. 2020. **Demonstration of ElaStick:
 Hyelip Lee, Andrea Bianchi. **YourSphere: Supporting Flexible Environmental Switching in Open-plan Workspaces via Augmented Reality**. _Archives of Design Research_ 33 (4), 43-52. DOI: [http://dx.doi.org/10.15187/adr.2020.11.33.4.43](http://dx.doi.org/10.15187/adr.2020.11.33.4.43)
 
 Hui-Shyong Yeo, Juyoung Lee, Andrea Bianchi, Alejandro Samboy, Hideki Koike, Woontack Woo, and Aaron Quigley. 2020. **WristLens: Enabling Single-Handed Surface Gesture Interaction for Wrist-Worn Devices Using Optical Motion Sensor**. In <i>Proceedings of the Augmented Humans International Conference</i> (_AHs '20_). Association for Computing Machinery, New York, NY, USA, Article 27, 1–8. DOI: [https://doi.org/10.1145/3384657.3384797](https://doi.org/10.1145/3384657.3384797)
-
 
 ---
 
@@ -92,7 +91,7 @@ Seungwoo Je, Hyelip Lee, Myung Jin Kim, Minkyeong Lee, Yoonji Kim, Youngkyung Ch
 
 Hyelip Lee, Myung Jin Kim, Byungjoo Lee, and Andrea Bianchi. 2018. **An Artistic Provocation to Explore Effects and Opportunities of Virtual Surreal Spaces**. In <i>Proceedings of the 2018 ACM Conference Companion Publication on Designing Interactive Systems</i> (_DIS '18 Companion_). Association for Computing Machinery, New York, NY, USA, 81–85. DOI: [https://doi.org/10.1145/3197391.3205416](https://doi.org/10.1145/3197391.3205416)
 
-Andrea Bianchi, Seungwoo Je, Hyelip Lee, Ian Oakley. **Enhancing Spatial Input on the Body with a Smart-Ring**. Proceedings of _Korea HCI'18_ [paper](https://alsoplantsfly.com/files/2018/Bianchi_Ring+Touch_KHCI18.pdf) (**Best paper award** 🏆) 
+Andrea Bianchi, Seungwoo Je, Hyelip Lee, Ian Oakley. **Enhancing Spatial Input on the Body with a Smart-Ring**. Proceedings of _Korea HCI'18_ [paper](https://alsoplantsfly.com/files/2018/Bianchi_Ring+Touch_KHCI18.pdf) (**Best paper award** 🏆)
 
 ---
 
@@ -142,7 +141,7 @@ Andrea Bianchi, Neung Ryu, Woojin Lee, Myung Jin Kim. **Apparatus and method for
 
 Seungwoo Je, Andrea Bianchi, Minkyeong Lee, Yoonji Kim, Liwei Chan, Xing-Dong Yang. **Ring-shaped wearable apparatus for transferring information through poke and method for controlling the same** (No. 10-2035474, Korea Patent), 2019.10.17, _ISSUED_.
 
-Andrea Bianchi , Seungwoo Je. **Vibration generating device wearable on finger and method performing operation corresponding to vibration information** (No. 10-1970534, Korea Patent) 2019.04.15, _ISSUED_. 
+Andrea Bianchi , Seungwoo Je. **Vibration generating device wearable on finger and method performing operation corresponding to vibration information** (No. 10-1970534, Korea Patent) 2019.04.15, _ISSUED_.
 
 Andrea Bianchi, Minkyeong Lee, Seungwoo Je, Woojin Lee, Daniel Ashbrook. **Ear-mounted vibrational wearable apparatus and method for controlling motion thereof** (Filed No. 10-2019-0137884, Korea Patent), _Patent Pending_.
 
@@ -151,4 +150,3 @@ Seungwoo Je, Andrea Bianchi, Young Min Jo, Junkyu Kim, Duck-Joo Lee. **Kinesthet
 Seungwoo Je, Andrea Bianchi, Brendan Rooney, Liwei Chan. **Wearable apparatus having ring shape and method for controlling motion thereof** (No. 10-1863183, Korea Patent) 2018.05.25, _ISSUED_.
 
 Seungwoo Je, Andrea Bianchi, Young Min Jo, Junkyu Kim, Duck-Joo Lee. **Kinesthetic-feedback wearable apparatus for virtual reality or augmented reality and method for controlling the same** (Filed No. 10-2018-0046244, Korea Patent), _Patent Pending_.
-
