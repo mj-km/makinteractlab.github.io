@@ -133,6 +133,10 @@ Andrea Bianchi and Ian Oakley. **Wearable authentication: Trends and opportuniti
 
 ---
 
+For papers published _before 2016_ please refer to [http://alsoplantsfly.com](http://alsoplantsfly.com).
+
+---
+
 # Patents
 
 Andrea Bianchi, Youngkyung Choi, Myung Jin Kim, Artem Dementyev. **Method and apparatus for printing electrical circuit directly on target surface having 3-dimensional shape, 3D printer used for the same and electical device having electrical circuit printed by the same** (Filed No. 10-2021-0006204, Korea Patent), _Patent Pending_.
