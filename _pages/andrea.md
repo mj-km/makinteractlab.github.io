@@ -87,6 +87,7 @@ Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.ka
 - **KAIST 2020 Technology Innovation Award (공과대학 2020 기술혁신 우수상)**
 - **Excellence Teaching Award Fall 2017** Industrial Design, KAIST
 - **Best Paper Award** UIST 2020
+- **Best Paper Award** TEI 2021
 - **Best Paper Award** MobileHCI 2013
 - **Best Paper Award** HCI Korea 2018
 - **Best Paper Award** HCI Korea 2015
@@ -108,7 +109,7 @@ Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.ka
 - DESFORM 2017
 - IMCOM 2015
 
-**Conference chair**
+**Conference chair/organizer**
 
 - TEI 2022 poster co-chair
 - TEI 2020 Student design challenge co-chair
@@ -126,7 +127,7 @@ Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.ka
 **ID311 - Software Prototyping**
 
 - Fall: 2016, 2017
-- Spring: 2016, 2018-2020
+- Spring: 2016, 2018-2021
 
 **ID220 - Interaction Prototyping**
 
@@ -139,9 +140,9 @@ Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.ka
 ## Additional Resources
 
 - [My calendar](https://calendar.makinteract.com)
-- [Previous website](https://alsoplantsfly.com)
+- [My previous website](https://alsoplantsfly.com)
 - [YouTube channel](https://www.youtube.com/channel/UC5A_g3GYEGeoqBqSSJ11NoQ)
 - [Vimeo channel](https://vimeo.com/minimalo)
 - [About me page](https://about.me/andreabianchi)
 - [Department page](https://id.kaist.ac.kr)
-- [One page resume](https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0)
+- [Resume](https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0)
