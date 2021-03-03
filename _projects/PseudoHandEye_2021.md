@@ -14,6 +14,8 @@ featured: false
 
 # {{page.title}}: {{page.subtitle}} ({{page.year}})
 
+🏅 _Honorable mention award_
+
 Virtual and augmented reality devices and applications have enabled the user to experience a variety of simulated real-life experiences through first-person visual, auditory, and haptic feedback. However, among the numerous everyday interactions that have been emulated, the familiar interaction of touching or rubbing the eyes is yet to be explored and remains to be understood. In this paper, we aim to understand the components of natural hand-eye interaction, propose an interaction technique through a proof-of-concept prototype head-mounted display, and evaluate the user experience of the prototype through a user study. In addition, we share insights emerged from the studies with suggestions for further development of interaction techniques based on combinations of hardware and software.
 
 ### References

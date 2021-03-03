@@ -33,9 +33,9 @@ Neung Ryu, Hye-Young Jo, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2021. 
 
 DaYe Kang, Tony Hoi, Nicolai Marquardt, Bilge Mutlu, and Andrea BIanchi. 2021. **ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics**. To appear in _CHI 2021_.
 
-Woojin Lee, Ramkrishna Prasad, Seungwoo Je, Yoonji Kim, Ian Oakley, Daniel Ashbrook, and Andrea Bianchi. 2021. **VirtualWire: Supporting Rapid Prototyping with Instant Reconfigurations of Wires in Breadboarded Circuits.** In <i>Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction</i> (_TEI '21_). Association for Computing Machinery, New York, NY, USA, Article 4, 1–12. DOI: [https://doi.org/10.1145/3430524.3440623](https://doi.org/10.1145/3430524.3440623)
+Woojin Lee, Ramkrishna Prasad, Seungwoo Je, Yoonji Kim, Ian Oakley, Daniel Ashbrook, and Andrea Bianchi. 2021. **VirtualWire: Supporting Rapid Prototyping with Instant Reconfigurations of Wires in Breadboarded Circuits.** In <i>Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction</i> (_TEI '21_). Association for Computing Machinery, New York, NY, USA, Article 4, 1–12. DOI: [https://doi.org/10.1145/3430524.3440623](https://doi.org/10.1145/3430524.3440623) (**Best paper award** 🏆)
 
-Myung Jin Kim and Andrea Bianchi. 2021. **Exploring Pseudo Hand-Eye Interaction on the Head-Mounted Display**. In Proceedings of _Augmented Humans 2021_.
+Myung Jin Kim and Andrea Bianchi. 2021. **Exploring Pseudo Hand-Eye Interaction on the Head-Mounted Display**. In Proceedings of _Augmented Humans 2021_. (**Honorable mention award 🏅**)
 
 ---
 
@@ -130,6 +130,10 @@ Hui-Shyong Yeo, Juyoung Lee, Andrea Bianchi, and Aaron Quigley. 2016. **Sidetap 
 Andrea Bianchi, Ian Oakley and Hyoungshick Kim. 2016. **PassBYOP: Bring Your Own Picture for Securing Graphical Passwords**. In _IEEE Transactions on Human-Machine Systems_, vol. 46, no. 3, pp. 380-389, June 2016. DOI: [https://doi.org/10.1109/THMS.2015.2487511](https://doi.org/10.1109/THMS.2015.2487511)
 
 Andrea Bianchi and Ian Oakley. **Wearable authentication: Trends and opportunities**. In _it - Information Technology_. Volume 58, Issue 5, Pages 255-262, July 2016 (invited paper). DOI: [https://doi.org/10.1515/itit-2016-0010](https://doi.org/10.1515/itit-2016-0010)
+
+---
+
+For papers published _before 2016_ please refer to [http://alsoplantsfly.com](http://alsoplantsfly.com).
 
 ---
 
