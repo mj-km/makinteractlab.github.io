@@ -1,6 +1,6 @@
 ---
 title: Andrea Bianchi
-description: About Andrea BIanchi - MAKinteract lab director. HCI, Korea, Haptics, VR, Digital Fabrication, Prototyping tools
+description: Andrea Bianchi, Interaction, Design, HCI, Haptics, VR, Digital Fabrication, Physical computing, Prototyping tools, MAKinteract, KAIST, Korea
 subtitle: Associate Professor - Lab director
 ---
 
