@@ -29,7 +29,7 @@ description: Publications at MAKinteract lab
 
 Seungwoo Je, Hyunseung Lim, Kongpyung Moon, Shan-Yuan Teng, Jas Brooks, Pedro Lopes, and Andrea Bianchi. 2021. **Elevate: A Walkable Pin-Array for Large Shape-Changing Terrains**. To appear in _CHI 2021_.
 
-Neung Ryu, Hye-Young Jo, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2021. **GamesBond: Bimanual Haptic Illusion of Physically Connected Objects for Immersive VR Using Grip Deformation**. To appear in _CHI 2021_.
+Neung Ryu, Hye-Young Jo, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2021. **GamesBond: Bimanual Haptic Illusion of Physically Connected Objects for Immersive VR Using Grip Deformation**. To appear in _CHI 2021_.  (**Honorable mention award 🏅**)
 
 DaYe Kang, Tony Hoi, Nicolai Marquardt, Bilge Mutlu, and Andrea BIanchi. 2021. **ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics**. To appear in _CHI 2021_.
 
