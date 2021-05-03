@@ -3,7 +3,7 @@ title: GamesBond
 subtitle: 'Bimanual Haptic Illusion of Physically Connected Objects for Immersive VR Using Grip Deformation'
 year: 2021
 featured_image: /images/projects/gamesbond.jpg # width must be 1600px
-# pdf_file: Lee_VirtualWire_TEI21.pdf # put file in the directory FILESii
+pdf_file: Ryu_Gamesbond_CHI21.pdf # put file in the directory FILESii
 # doi_link: https://doi.org/
 featured: true
 ---

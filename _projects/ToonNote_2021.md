@@ -3,7 +3,7 @@ title: ToonNote
 subtitle: 'Improving Communication in Computational Notebooks Using Interactive Data Comics'
 year: 2021
 featured_image: /images/projects/toonnote.jpg # width must be 1600px
-# pdf_file: Lee_VirtualWire_TEI21.pdf # put file in the directory FILESii
+pdf_file: Kang_ToonNote_CHI21.pdf # put file in the directory FILESii
 # doi_link: https://doi.org/
 featured: false
 ---

@@ -3,7 +3,7 @@ title: Elevate
 subtitle: 'A Walkable Pin-Array for Large Shape-Changing Terrains'
 year: 2021
 featured_image: /images/projects/elevate.jpg # width must be 1600px
-# pdf_file: Lee_VirtualWire_TEI21.pdf # put file in the directory FILESii
+pdf_file: Je_Elevate_CHI21.pdf # put file in the directory FILESii
 # doi_link: https://doi.org/
 featured: true
 ---
