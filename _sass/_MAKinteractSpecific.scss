@@ -2,96 +2,96 @@
 
 /* Hide the scrollbar on the page__content div */
 .header {
-    overflow: hidden !important;
+  overflow: hidden !important;
 }
 
 /* Hide scrollbars */
 
 .container-fluid {
-    margin-top: 50px;
+  margin-top: 50px;
 }
 
 .professor {
-    margin-bottom: 500px
+  margin-bottom: 500px;
 }
 
 .people {
-    margin-bottom: 50px;
-    display: block;
+  margin-bottom: 50px;
+  display: block;
 }
 
 .people img {
-    margin: auto;
+  margin: auto;
 }
 
-
 .people h5 {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    max-width: 100%;
-    font-size: 100%;
-    font-weight: bold;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-width: 100%;
+  font-size: 100%;
+  font-weight: bold;
 }
 
 .people h6 {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    max-width: 100%;
-    font-size: 90%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-width: 100%;
+  font-size: 90%;
 }
 
 .people b {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    max-width: 100%;
-    font-size: 90%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-width: 100%;
+  font-size: 90%;
 }
 
 .people .icons {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
-.current {}
+.current {
+}
 
 .img-container {
-    position: relative;
-    text-align: center;
+  position: relative;
+  text-align: center;
 }
 
 .text-overlay {
-    position: absolute;
-    top: 4px;
-    right: 16px;
-    color: #EE2A7C;
+  position: absolute;
+  top: 4px;
+  right: 16px;
+  color: #ee2a7c;
 }
-
 
 // SPONSORS
 .sponsor {
-    height: 150px;
-    display: flex;
-    align-items: center;
-    /* horizontal */
-    justify-content: center;
-    /* vertical */
+  height: 150px;
+  display: flex;
+  align-items: center;
+  /* horizontal */
+  justify-content: center;
+  /* vertical */
 }
 
 .sponsor img {
-    display: block;
-    float: left;
-    margin: auto;
+  display: block;
+  float: left;
+  margin: auto;
 }
-
 
 .greyscale {
-    -webkit-filter: grayscale(100%);
-    /* Safari 6.0 - 9.0 */
-    filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  /* Safari 6.0 - 9.0 */
+  filter: grayscale(75%);
+  //   filter: sepia(50%);
+  //   filter: saturate(10%);
 }
 
-.list_indent{
-    margin-left: 2em;
+.list_indent {
+  margin-left: 2em;
 }
