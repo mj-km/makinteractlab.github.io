@@ -1,6 +1,7 @@
 ---
 title: Wind-Blaster
 subtitle: "a Wearable Propeller-based Prototype that Provides Ungrounded Force-Feedback"
+description: "Wind-Blaster: a Wearable Propeller-based Prototype that Provides Ungrounded Force-Feedback"
 year: 2018
 featured_image: /images/projects/windblaster.jpg # width must be 1600px	
 pdf_file: Je_WindBlaster_SiggraphET2018.pdf # put file in the directory FILES

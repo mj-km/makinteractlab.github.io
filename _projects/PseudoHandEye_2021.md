@@ -1,10 +1,11 @@
 ---
 title: Pseudo Hand-Eye Interaction
 subtitle: 'Exploring Pseudo Hand-Eye Interaction on the Head-Mounted Display'
+description: 'Exploring Pseudo Hand-Eye Interaction on the Head-Mounted Display'
 year: 2021
 featured_image: /images/projects/pseudoHandEye.jpg # width must be 1600px
-# pdf_file: Lee_VirtualWire_TEI21.pdf # put file in the directory FILESii
-# doi_link: https://doi.org/
+pdf_file: Kim_PseudHandEye_AH21.pdf # put file in the directory FILESii
+doi_link: https://doi.org/10.1145/3458709.3458960
 featured: false
 ---
 
@@ -20,7 +21,7 @@ Virtual and augmented reality devices and applications have enabled the user to 
 
 ### References
 
-Myung Jin Kim and Andrea Bianchi. 2021. **Exploring Pseudo Hand-Eye Interaction on the Head-Mounted Display**. In Proceedings of _Augmented Humans 2021_.
+Myung Jin Kim and Andrea Bianchi. 2021. **Exploring Pseudo Hand-Eye Interaction on the Head-Mounted Display**. In <i>Augmented Humans Conference 2021</i> (<i>AHs'21</i>). Association for Computing Machinery, New York, NY, USA, 251–258. DOI: https://doi.org/10.1145/3458709.3458960.
 
 <!-- DO NOT CHANGE MANUALLY -->
 

@@ -1,6 +1,7 @@
 ---
 title: PokeRing
 subtitle: "Notifications by Poking Around the Finger"
+description: "PokeRing: Notifications by Poking Around the Finger"
 year: 2018
 featured_image: /images/projects/pokering.jpg # width must be 1600px	
 pdf_file: Je_PokeRing_CHI18.pdf # put file in the directory FILES

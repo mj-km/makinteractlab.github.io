@@ -1,6 +1,7 @@
 ---
 title: BodyPrinter
-subtitle: "BodyPrinter: Fabricating Circuits Directly on the Skin at Arbitrary Locations Using a Wearable Compact Plotter"
+subtitle: "Fabricating Circuits Directly on the Skin at Arbitrary Locations Using a Wearable Compact Plotter"
+description: "BodyPrinter: Fabricating Circuits Directly on the Skin at Arbitrary Locations Using a Wearable Compact Plotter"
 year: 2020
 featured_image: /images/projects/bodyPrinter.jpg # width must be 1600px	
 pdf_file: Choi_BodyPrinter_UIST20.pdf # put file in the directory FILES

@@ -1,7 +1,7 @@
 ---
 title: PassBYOP
-subtitle: "Bring Your Own Picture for Securing
-Graphical Passwords"
+subtitle: "Bring Your Own Picture for Securing Graphical Passwords"
+description: "PassBYOP: Bring Your Own Picture for Securing Graphical Passwords"
 year: 2016
 featured_image: /images/projects/passBYOP.jpg # width must be 1600px	
 pdf_file: Bianchi_Passbyop_IEEE16.pdf # put file in the directory FILES

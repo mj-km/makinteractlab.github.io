@@ -1,10 +1,11 @@
 ---
 title: ToonNote
 subtitle: 'Improving Communication in Computational Notebooks Using Interactive Data Comics'
+description: 'ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics'
 year: 2021
 featured_image: /images/projects/toonnote.jpg # width must be 1600px
 pdf_file: Kang_ToonNote_CHI21.pdf # put file in the directory FILESii
-# doi_link: https://doi.org/
+doi_link: https://doi.org/10.1145/3411764.3445434
 featured: false
 ---
 
@@ -18,7 +19,7 @@ Computational notebooks help data analysts analyze and visualize datasets, and s
 
 ### References
 
-DaYe Kang, Tony Hoi, Nicolai Marquardt, Bilge Mutlu, and Andrea BIanchi. 2021. **ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics**. To appear in _CHI 2021_.
+DaYe Kang, Tony Ho, Nicolai Marquardt, Bilge Mutlu, and Andrea Bianchi. 2021. **ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics**. <i>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems</i>. Association for Computing Machinery, New York, NY, USA, Article 727, 1–14. DOI:https://doi.org/10.1145/3411764.3445434
 
 <!-- DO NOT CHANGE MANUALLY -->
 

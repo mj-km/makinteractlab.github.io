@@ -1,6 +1,7 @@
 ---
 title: Skin-Dragging 
 subtitle: "Designing Skin-Dragging Haptic Motions for Wearables"
+description: "Designing Skin-Dragging Haptic Motions for Wearables"
 year: 2017
 featured_image: /images/projects/skinDragging1.jpg # width must be 1600px	
 pdf_file: Je_SkinDraggingMotions_ISWC17.pdf # put file in the directory FILES

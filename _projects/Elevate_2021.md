@@ -1,10 +1,11 @@
 ---
 title: Elevate
 subtitle: 'A Walkable Pin-Array for Large Shape-Changing Terrains'
+description: "Elevate: A Walkable Pin-Array for Large Shape-Changing Terrains"
 year: 2021
 featured_image: /images/projects/elevate.jpg # width must be 1600px
 pdf_file: Je_Elevate_CHI21.pdf # put file in the directory FILESii
-# doi_link: https://doi.org/
+doi_link: https://doi.org/10.1145/3411764.3445454
 featured: true
 ---
 
@@ -18,8 +19,7 @@ Current head-mounted displays enable users to explore virtual worlds by simply w
 
 ### References
 
-Seungwoo Je, Hyunseung Lim, Kongpyung Moon, Shan-Yuan Teng, Jas Brooks, Pedro Lopes, and Andrea Bianchi. 2021. **Elevate: A Walkable Pin-Array for Large Shape-Changing Terrains**. To appear in _CHI 2021_.
-
+Seungwoo Je, Hyunseung Lim, Kongpyung Moon, Shan-Yuan Teng, Jas Brooks, Pedro Lopes, and Andrea Bianchi. 2021. **Elevate: A Walkable Pin-Array for Large Shape-Changing Terrains**. <i>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems</i>. Association for Computing Machinery, New York, NY, USA, Article 127, 1–11. DOI:https://doi.org/10.1145/3411764.3445454
 
 <!-- DO NOT CHANGE MANUALLY -->
 

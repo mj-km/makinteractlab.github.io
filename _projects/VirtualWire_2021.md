@@ -1,6 +1,7 @@
 ---
 title: VirtualWire
 subtitle: 'Supporting Rapid Prototyping with Instant Reconfigurations of Wires in Breadboarded Circuits'
+description: 'VirtualWire: Supporting Rapid Prototyping with Instant Reconfigurations of Wires in Breadboarded Circuits'
 year: 2021
 featured_image: /images/projects/virtualwire.jpg # width must be 1600px
 pdf_file: Lee_VirtualWire_TEI21.pdf # put file in the directory FILESii

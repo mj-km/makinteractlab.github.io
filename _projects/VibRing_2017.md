@@ -1,6 +1,7 @@
 ---
 title: VibRing
 subtitle: "Disambiguating Touch with a Smart-Ring"
+description: "VibRing: Disambiguating Touch with a Smart-Ring"
 year: 2017
 featured_image: /images/projects/vibRing.jpg # width must be 1600px	
 pdf_file: Bianchi_Vibring_AH2017.pdf # put file in the directory FILES

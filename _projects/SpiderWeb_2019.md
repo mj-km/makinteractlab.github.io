@@ -1,6 +1,7 @@
 ---
 title: Spider Web Fabrication
 subtitle: "A Computational Approach for Spider Web Inspired Fabrication of String Art"
+description: "A Computational Approach for Spider Web Inspired Fabrication of String Art"
 year: 2019
 featured_image: /images/projects/spiderweb.jpg # width must be 1600px	
 pdf_file: Je_SpiderWeb_CAV19.pdf # put file in the directory FILES

@@ -1,6 +1,7 @@
 ---
 title: ElaStick
 subtitle: 'A Handheld Variable Stiffness Display for Rendering Dynamic Haptic Response of Flexible Object'
+description: 'ElaStick: A Handheld Variable Stiffness Display for Rendering Dynamic Haptic Response of Flexible Object'
 year: 2020
 featured_image: /images/projects/elastick.jpg # width must be 1600px
 pdf_file: Ryu_ElaStick_UIST20.pdf # put file in the directory FILES

@@ -1,6 +1,7 @@
 ---
 title: tactoRing
 subtitle: "A Skin-Drag Discrete Display"
+description: "tactoRing: A Skin-Drag Discrete Display"
 year: 2017
 featured_image: /images/projects/tactoring.jpg # width must be 1600px	
 pdf_file: Je_tactoRing_CHI17.pdf

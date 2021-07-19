@@ -1,6 +1,7 @@
 ---
 title: SchemaBoard
 subtitle: 'Supporting Correct Assembly of Schematic Circuits using Dynamic In-Situ Visualization'
+description: 'SchemaBoard: Supporting Correct Assembly of Schematic Circuits using Dynamic In-Situ Visualization'
 year: 2020
 featured_image: /images/projects/schemaboard.jpg # width must be 1600px
 pdf_file: Kim_SchemaBoard_UIST20.pdf # put file in the directory FILESii

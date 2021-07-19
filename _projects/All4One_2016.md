@@ -1,6 +1,7 @@
 ---
 title: All4One
 subtitle: "A Moderated Sketching Tool for Supporting Idea-Generation with Remote Users"
+description: "All4One: A Moderated Sketching Tool for Supporting Idea-Generation with Remote Users"
 year: 2017
 featured_image: /images/projects/all4one.jpg # width must be 1600px	
 pdf_file: Lee_All4One_IASDR2017.pdf # put file in the directory FILES
