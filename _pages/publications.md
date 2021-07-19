@@ -27,15 +27,15 @@ description: Publications at MAKinteract lab
 
 ## 2021
 
-Seungwoo Je, Hyunseung Lim, Kongpyung Moon, Shan-Yuan Teng, Jas Brooks, Pedro Lopes, and Andrea Bianchi. 2021. **Elevate: A Walkable Pin-Array for Large Shape-Changing Terrains**. To appear in _CHI 2021_.
+Seungwoo Je, Hyunseung Lim, Kongpyung Moon, Shan-Yuan Teng, Jas Brooks, Pedro Lopes, and Andrea Bianchi. 2021. **Elevate: A Walkable Pin-Array for Large Shape-Changing Terrains**. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (_CHI'21_). Association for Computing Machinery, New York, NY, USA, Article 127, 1–11. DOI: [https://doi.org/10.1145/3411764.3445454](https://doi.org/10.1145/3411764.3445454)
 
-Neung Ryu, Hye-Young Jo, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2021. **GamesBond: Bimanual Haptic Illusion of Physically Connected Objects for Immersive VR Using Grip Deformation**. To appear in _CHI 2021_.  (**Honorable mention award 🏅**)
+Neung Ryu, Hye-Young Jo, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2021. **GamesBond: Bimanual Haptic Illusion of Physically Connected Objects for Immersive VR Using Grip Deformation**. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (_CHI'21_). Association for Computing Machinery, New York, NY, USA, Article 125, 1–10. DOI: [https://doi.org/10.1145/3411764.3445727](https://doi.org/10.1145/3411764.3445727) (**Honorable mention award 🏅**)
 
-DaYe Kang, Tony Hoi, Nicolai Marquardt, Bilge Mutlu, and Andrea BIanchi. 2021. **ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics**. To appear in _CHI 2021_.
+DaYe Kang, Tony Ho, Nicolai Marquardt, Bilge Mutlu, and Andrea Bianchi. 2021. **ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics**. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (_CHI'21_). Association for Computing Machinery, New York, NY, USA, Article 727, 1–14. DOI: [https://doi.org/10.1145/3411764.3445434](https://doi.org/10.1145/3411764.3445434)
 
 Woojin Lee, Ramkrishna Prasad, Seungwoo Je, Yoonji Kim, Ian Oakley, Daniel Ashbrook, and Andrea Bianchi. 2021. **VirtualWire: Supporting Rapid Prototyping with Instant Reconfigurations of Wires in Breadboarded Circuits.** In <i>Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction</i> (_TEI '21_). Association for Computing Machinery, New York, NY, USA, Article 4, 1–12. DOI: [https://doi.org/10.1145/3430524.3440623](https://doi.org/10.1145/3430524.3440623) (**Best paper award** 🏆)
 
-Myung Jin Kim and Andrea Bianchi. 2021. **Exploring Pseudo Hand-Eye Interaction on the Head-Mounted Display**. In Proceedings of _Augmented Humans 2021_. (**Honorable mention award 🏅**)
+Myung Jin Kim and Andrea Bianchi. 2021. **Exploring Pseudo Hand-Eye Interaction on the Head-Mounted Display**. In Augmented Humans Conference 2021 (_AHs’21_). Association for Computing Machinery, New York, NY, USA, 251–258. DOI: [https://doi.org/10.1145/3458709.3458960](https://doi.org/10.1145/3458709.3458960) (**Honorable mention award 🏅**)
 
 ---
 
