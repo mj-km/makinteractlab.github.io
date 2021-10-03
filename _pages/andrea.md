@@ -96,6 +96,7 @@ Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.ka
 - **Honorable Mention Award** MobileHCI 2016
 - **Best Poster Award** UIST 2016
 - **iF Design Award 2021** Mobile Clinic Module Control UX/UI
+- **IDSA 2021 Bronze Design Award** Mobile Clinic Module Control UX/UI
 
 ## Academic Services
 
