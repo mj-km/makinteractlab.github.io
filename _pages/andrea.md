@@ -55,7 +55,7 @@ subtitle: Associate Professor - Lab director
 
     <div class="links">
     <!-- <a href="{{prof.homepage}}"><i class="fas fa-3x fa-home" aria-hidden="true"></i></a> -->
-    <a href="http://andrea.kaist.id"><i class="fas fa-2x fa-file" aria-hidden="true"></i></a>
+    <a href="http://andrea.kaist.id"><i class="fas fa-2x fa-id-badge" aria-hidden="true"></i></a>
     <a href="http://github.com/{{prof.github}}"><i class="fab fa-2x fa-github" aria-hidden="true"></i></a>
     <a href="https://twitter.com/{{prof.twitter}}"><i class="fab fa-2x fa-twitter" aria-hidden="true"></i></a>
     <a href="https://scholar.google.co.kr/citations?user={{prof.scholar}}"><i class="fas fa-2x fa-graduation-cap" aria-hidden="true"></i></a>
@@ -134,7 +134,7 @@ Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.ka
 
 **ID220 - Interaction Prototyping**
 
-- Fall: 2018-2020
+- Fall: 2018-2021
 
 **ID307 - Interface Design**
 
