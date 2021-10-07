@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Awards & Publications
 description: Publications at MAKinteract lab
 ---
 
@@ -23,7 +23,23 @@ description: Publications at MAKinteract lab
 
 <!-- MODIFY UNDER THIS LINE -->
 
-<!-- # Conference & Journal Papers -->
+
+
+- 🏆 **Best Paper Award** UIST 2020 
+- 🏆 **Best Paper Award** TEI 2021
+- 🏆 **Best Paper Award** MobileHCI 2013
+- 🏆 **Best Paper Award** HCI Korea 2018
+- 🏆 **Best Paper Award** HCI Korea 2015
+- 🏆 **Best Poster Award** UIST 2016
+- 🏅 **Honorable Mention Award** CHI 2021
+- 🏅 **Honorable Mention Award** Augmented Humans 2021
+- 🏅 **Honorable Mention Award** MobileHCI 2017
+- 🏅 **Honorable Mention Award** MobileHCI 2016
+- 🏆 **iF Design Award 2021** 
+- 🥉 **IDSA 2021 Bronze Design Award** 
+
+---
+# Academic papers
 
 ## 2021
 
