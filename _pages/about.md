@@ -3,7 +3,7 @@ title: The Lab
 description: Interaction, Design, HCI, Haptics, VR, Digital Fabrication, Physical computing, Prototyping tools, MAKinteract, KAIST, Korea, Hardware UX
 ---
 
-**MAKinteract** (**MAK**E + **interact**ion) is a research lab specialized in **Hardware UX**, in the field of Human-Computer Interaction (**HCI**). We are in the department of [Industrial Design](http://id.kaist.ac.kr) at [KAIST](http://www.kaist.edu/html/en/index.html) (South Korea) and are member of the [KAIST HCI group](https://hci.kaist.ac.kr).
+**MAKinteract** (**MAK**E + **interact**ion) is a research lab specialized in **Hardware UX**, in the field of Human-Computer Interaction (**HCI**). We are in the department of [Industrial Design](http://id.kaist.ac.kr) at [KAIST](https://www.kaist.ac.kr/en/) (South Korea) and are member of the [KAIST HCI group](https://hci.kaist.ac.kr).
 
 Our lab is among the few well recognized HCI labs in Korea working at the intersection of design and engineering. Please see our [publication list](./publications.html). 
 
