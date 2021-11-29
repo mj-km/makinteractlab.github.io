@@ -20,7 +20,7 @@ Rooted in user-centered experience design, and with deep understanding and exper
         <div class="col-lg-4 col-md-4 col-sm-4 text-center people">
             <div class="service-box">
                 <img src="/images/people/{{ prof.name | append: '_' | append: prof.lastname | append: '.jpg' | downcase  }}"
-                    alt="{{prof.name}}" class="rounded-circle">
+                    alt="{{prof.name}}" class="rounded-circle profImage">
                 <h5>{{prof.name}}<br>{{prof.lastname}}</h5>
                 <b>{{prof.position}}<br>Director</b>
                 <div class="icons">

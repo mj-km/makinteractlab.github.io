@@ -6,16 +6,15 @@ subtitle: Associate Professor - Lab director
 
 <head>
 <style>
-    .profile {
-        display: flex;
-        flex-direction: row;
-        width: 80%;
-        margin: auto;
+
+    .profileImage {
+        width: 30%;
     }
-    
+
+
     @media (max-width: 600px) {              
-        .profile {
-            flex-direction: column;
+        .profileImage {
+            width: 100%;
         }    
     }
 
@@ -23,52 +22,44 @@ subtitle: Associate Professor - Lab director
         color: #EE2A7C;
     }
 
-    .profile img{
-        margin: 2em;
-        height: 200px;
-        width: 200px;
-    }
-
-
 
     .links {
+        flex-direction: row;
         display: flex;
         justify-content: space-between;
         width: 60%;
         margin: auto;
         margin-top: 2em;
+        margin-bottom: 3em;
     }
 
     .links a {
         flex-grow: 1;
+        display: flex;
+        justify-content: center;
     }
+
 
 </style>
 </head>
 
-<div class="profile">
-<img src="/images/people/andrea_bianchi.jpg" alt="{{prof.name}}" class="rounded-circle">
-<div class="description">
-<p>
-    <strong>I am a maker</strong> interested in creating tools to help other makers better building prototypes or learning new technical skills. I am specifically interested in <strong>tools for electronics and physical computing, fabrication, and mechanical systems for body augmentation</strong>. I also develop tangible and wearable interfaces for enhancing and altering sensory perception and input capabilities, such as <i>haptic controllers and smart-wearables</i>. 
-    </p>
+<span class="profile">
+Andrea Bianchi (Korean: 안두리) is an associate professor in the Department of Industrial Design at [KAIST](https://id.kaist.ac.kr) and the director of the **MAKinteract lab**. He researches in the field of Human-Computer Interaction (_HCI_) focusing on building **tools for prototyping and devices for body augmentation**.  
+</span>
 
-    <div class="links">
-    <!-- <a href="{{prof.homepage}}"><i class="fas fa-3x fa-home" aria-hidden="true"></i></a> -->
-    <a href="http://andrea.kaist.id"><i class="fas fa-2x fa-id-badge" aria-hidden="true"></i></a>
-    <a href="http://github.com/{{prof.github}}"><i class="fab fa-2x fa-github" aria-hidden="true"></i></a>
-    <a href="https://twitter.com/{{prof.twitter}}"><i class="fab fa-2x fa-twitter" aria-hidden="true"></i></a>
-    <a href="https://scholar.google.co.kr/citations?user={{prof.scholar}}"><i class="fas fa-2x fa-graduation-cap" aria-hidden="true"></i></a>
-    <a href="#" onclick="(function(){window.open('mailto:{{ prof.email }}');})()"><i class="fas fa-2x fa-envelope"></i></a>
-    </div>
+Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) (Korea) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York startup. Andrea received a [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) (Korea) in 2012, an MS in Computer Science from [NYU](http://www.nyu.edu) (USA), and a Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) (Italy). Andrea has an _Erdős number_ of 3 and collects [eyeglasses](https://alsoplantsfly.kaist.id/images/pictures/profile/glasses.jpg).
 
-    </div>
 
+<img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage">
+
+<div class="links">
+<!-- <a href="{{prof.homepage}}"><i class="fas fa-3x fa-home" aria-hidden="true"></i></a> -->
+<a href="http://andrea.kaist.id"><i class="fas fa-2x fa-id-badge" aria-hidden="true"></i></a>
+<a href="http://github.com/{{prof.github}}"><i class="fab fa-2x fa-github" aria-hidden="true"></i></a>
+<a href="https://twitter.com/{{prof.twitter}}"><i class="fab fa-2x fa-twitter" aria-hidden="true"></i></a>
+<a href="https://scholar.google.co.kr/citations?user={{prof.scholar}}"><i class="fas fa-2x fa-graduation-cap" aria-hidden="true"></i></a>
+<a href="#" onclick="(function(){window.open('mailto:{{ prof.email }}');})()"><i class="fas fa-2x fa-envelope"></i></a>
 </div>
-
-## Short Bio
-
-Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) in 2012, his Master's in Computer Science from [NYU](http://www.nyu.edu) and his Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home). Before joining [KAIST](https://id.kaist.ac.kr), he worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York startup after earning his Master's degree. Andrea has an _Erdős number_ of 3 and collects [eyeglasses](https://alsoplantsfly.kaist.id/images/pictures/profile/glasses.jpg).
 
 ## Experience
 
@@ -142,10 +133,9 @@ Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.ka
 
 ## Additional Resources
 
-- [My calendar](https://calendar.makinteract.com)
-- [My previous website](https://alsoplantsfly.kaist.id)
-- [YouTube channel](https://www.youtube.com/channel/UC5A_g3GYEGeoqBqSSJ11NoQ)
-- [Vimeo channel](https://vimeo.com/minimalo)
-- [About me page](https://about.me/andreabianchi)
-- [Department page](https://id.kaist.ac.kr)
+- [Resume (long)](http://andrea.kaist.id)
 - [Short Resume (PDF)](https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0)
+- [My calendar](https://calendar.makinteract.com)
+- [Website with old projects (Ph.D. and before)](https://alsoplantsfly.kaist.id)
+- [YouTube channel](https://www.youtube.com/channel/UC5A_g3GYEGeoqBqSSJ11NoQ)
+- [About me page](https://about.me/andreabianchi)
