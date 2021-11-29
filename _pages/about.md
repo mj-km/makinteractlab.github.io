@@ -16,7 +16,7 @@ Rooted in user-centered experience design, and with deep understanding and exper
 {% assign prof = site.data.people[0] %}
 
 <div class="container-fluid">
-    <div class="row">
+    <div class="row peopleContainer">
         <div class="col-lg-4 col-md-4 col-sm-4 text-center people">
             <div class="service-box">
                 <img src="/images/people/{{ prof.name | append: '_' | append: prof.lastname | append: '.jpg' | downcase  }}"

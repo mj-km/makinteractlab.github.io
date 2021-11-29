@@ -1,6 +1,6 @@
 {% for person in site.data.people offset:1 %}
 
-<div class="col-lg-2 col-md-2 col-sm-2 text-center people">
+<div class="col-lg-2 col-md-2 col-sm-3 text-center people">
   <div class="service-box">
     <img src="/images/people/{{ person.name | append: '_' | append: person.lastname | append: '.jpg' | downcase  }}"
       alt="{{person.name}}" class="rounded-circle {% if person.status == 'alumni' %} alumni-greyscale {% endif %}" />
