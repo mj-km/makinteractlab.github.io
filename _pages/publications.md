@@ -23,9 +23,7 @@ description: Publications at MAKinteract lab
 
 <!-- MODIFY UNDER THIS LINE -->
 
-
-
-- 🏆 **Best Paper Award** UIST 2020 
+- 🏆 **Best Paper Award** UIST 2020
 - 🏆 **Best Paper Award** TEI 2021
 - 🏆 **Best Paper Award** MobileHCI 2013
 - 🏆 **Best Paper Award** HCI Korea 2018
@@ -35,11 +33,16 @@ description: Publications at MAKinteract lab
 - 🏅 **Honorable Mention Award** Augmented Humans 2021
 - 🏅 **Honorable Mention Award** MobileHCI 2017
 - 🏅 **Honorable Mention Award** MobileHCI 2016
-- 🏆 **iF Design Award 2021** 
-- 🥉 **IDSA 2021 Bronze Design Award** 
+- 🏆 **iF Design Award 2021**
+- 🥉 **IDSA 2021 Bronze Design Award**
 
 ---
+
 # Academic papers
+
+## 2022
+
+Hye-Young Jo, Wooje Chang, Hoonjin Jung, Andrea Bianchi. 2022. **Design of Virtual Reality Application for Interaction Prototyping Remote Education**. In _HCI Korea 2022_ (2022.02.09 - 02.11).
 
 ## 2021
 
@@ -107,7 +110,7 @@ Seungwoo Je, Hyelip Lee, Myung Jin Kim, Minkyeong Lee, Yoonji Kim, Youngkyung Ch
 
 Hyelip Lee, Myung Jin Kim, Byungjoo Lee, and Andrea Bianchi. 2018. **An Artistic Provocation to Explore Effects and Opportunities of Virtual Surreal Spaces**. In <i>Proceedings of the 2018 ACM Conference Companion Publication on Designing Interactive Systems</i> (_DIS '18 Companion_). Association for Computing Machinery, New York, NY, USA, 81–85. DOI: [https://doi.org/10.1145/3197391.3205416](https://doi.org/10.1145/3197391.3205416)
 
-Andrea Bianchi, Seungwoo Je, Hyelip Lee, Ian Oakley. **Enhancing Spatial Input on the Body with a Smart-Ring**. Proceedings of _Korea HCI'18_ [paper](https://alsoplantsfly.kaist.id/files/2018/Bianchi_Ring+Touch_KHCI18.pdf) (**Best paper award** 🏆)
+Andrea Bianchi, Seungwoo Je, Hyelip Lee, Ian Oakley. **Enhancing Spatial Input on the Body with a Smart-Ring**. Proceedings of _HCI Korea'18_ [paper](https://alsoplantsfly.kaist.id/files/2018/Bianchi_Ring+Touch_KHCI18.pdf) (**Best paper award** 🏆)
 
 ---
 
