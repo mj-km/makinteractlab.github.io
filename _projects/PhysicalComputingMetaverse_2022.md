@@ -3,7 +3,7 @@ title: Physical Computing Metaverse
 subtitle: 'Enabling electronics education in VR'
 description: 'Enabling electronics education in VR'
 year: 2022
-featured_image: /images/projects/windblaster.jpg # width must be 1600px
+featured_image: /images/projects/gsimeta.jpg # width must be 1600px
 pdf_file: Cho_PcompMetaverse_KHCI22.pdf # put file in the directory FILES
 # doi_link: https://doi.org/10.1145/3214907.3214915
 featured: false
