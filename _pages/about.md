@@ -49,7 +49,7 @@ Rooted in user-centered experience design, and with deep understanding and exper
         </div>
 
         <!-- OTHER MEMBERS -->
-        {% include people_grid.html %}
+        {% include people-grid.html %}
     </div>
 
 </div>

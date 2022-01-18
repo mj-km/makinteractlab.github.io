@@ -1,7 +1,7 @@
 name,url,image,description
-Geography of UIST,https://geo-conf.github.io/uist,uist.png,Visualization of geographical outreach of UIST conference
-Dataset Fritzing Circuits,https://github.com/makinteractlab/Dataset_CircuitsFritzing,uist.png
-BlinkPico,https://github.com/ID220/BlinkPico,uist.png
-DiscoveryPro Adapter,https://github.com/makinteract/DiscoveryPro-Adapter,uist.png
-VSCode MicroPython Extension,https://github.com/makinteract/vscode-microbit-micropython,uist.png
-Homework2Dropbox,https://github.com/makinteract/Homework2Dropbox,uist.png
+Geography of UIST,https://geo-conf.github.io/uist,geouist.png,"Visualization of geographical outreach of test conference."
+VSCode MicroPython Extension,https://github.com/makinteract/vscode-microbit-micropython,microbit_python.png,"VSCode extension to use microPython with the micro:bit."
+BlinkPico,https://github.com/ID220/BlinkPico,blinkpico.png,"A shield with three buttons and a 8x8 LED Matrix display used in ID220."
+Dataset of Fritzing Circuits,https://github.com/makinteractlab/Dataset_CircuitsFritzing,fritzing.png,"A dataset (March 12, 2019) of fritzing circuits ready to be parsed and analyzed."
+DiscoveryPro Adapter,https://github.com/makinteract/DiscoveryPro-Adapter,discoverypro_adapter.png,"A a simple adapter to be used with the Digilent Discovery Pro 3000 series."
+Homework2Dropbox,https://github.com/makinteract/Homework2Dropbox,hw2dropbox.png,"Homework2Dropbox allows students to upload their homework on a form, and the instructor to receive the uploaded file in a Dropbox folder."

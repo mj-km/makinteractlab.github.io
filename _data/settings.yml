@@ -18,7 +18,7 @@ menu_settings:
     - subtitle: 'Lab Director'
       url: '/andrea'
     - title: 'Open-source'
-      url: '/open-source'
+      url: '/opensource'
     - title: 'Sponsors'
       url: '/sponsors'
     - title: 'Join us'
