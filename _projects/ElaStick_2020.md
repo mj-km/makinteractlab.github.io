@@ -37,6 +37,7 @@ Neung Ryu, Woojin Lee, Myung Jin Kim, and Andrea Bianchi. 2020. **ElaStick: A Ha
 Neung Ryu, Myung Jin Kim, and Andrea Bianchi. 2020. **Demonstration of ElaStick: A Variable Stiffness Display for Rendering Handheld Flexible Object**. In <i>SIGGRAPH Asia 2020 Emerging Technologies</i> (<i>SA '20</i>). Association for Computing Machinery, New York, NY, USA, Article 5, 1–2. DOI:https://doi.org/10.1145/3415255.3422894
 
 <!-- DO NOT CHANGE MANUALLY -->
+
 <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file2 }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
 <a href="{{ page.doi_link2 }}" target="_blank">doi</a>
 

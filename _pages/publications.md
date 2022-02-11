@@ -26,6 +26,7 @@ description: Publications at MAKinteract lab
 - 🏆 **Best Paper Award** UIST 2020
 - 🏆 **Best Paper Award** TEI 2021
 - 🏆 **Best Paper Award** MobileHCI 2013
+- 🏆 **Best Paper Award** HCI Korea 2022
 - 🏆 **Best Paper Award** HCI Korea 2018
 - 🏆 **Best Paper Award** HCI Korea 2015
 - 🏆 **Best Poster Award** UIST 2016
@@ -41,6 +42,10 @@ description: Publications at MAKinteract lab
 # Academic papers
 
 ## 2022
+
+Myung Jin Kim, Neung Ryu KAIST, Wooje Chang, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2022. **SpinOcchio: Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller**. To appear in proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (_CHI'22_).
+
+Jaemin Shin, Seungjoo Lee, Taesik Gong, Hyungjun Yoon, Hyunchul Roh, Andrea Bianchi, Sung-Ju Lee. 2022. **MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame**. To appear in proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (_CHI'22_).
 
 Hye-Young Jo, Wooje Chang, Hoonjin Jung, Andrea Bianchi. 2022. **Design of Virtual Reality Application for Interaction Prototyping Remote Education**. In _HCI Korea 2022_ (2022.02.09 - 02.11).
 
