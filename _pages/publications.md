@@ -47,7 +47,7 @@ Myung Jin Kim, Neung Ryu KAIST, Wooje Chang, Michel Pahud, Mike Sinclair, and An
 
 Jaemin Shin, Seungjoo Lee, Taesik Gong, Hyungjun Yoon, Hyunchul Roh, Andrea Bianchi, Sung-Ju Lee. 2022. **MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame**. To appear in proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (_CHI'22_).
 
-Hye-Young Jo, Wooje Chang, Hoonjin Jung, Andrea Bianchi. 2022. **Design of Virtual Reality Application for Interaction Prototyping Remote Education**. In _HCI Korea 2022_ (2022.02.09 - 02.11).
+Hye-Young Jo, Wooje Chang, Hoonjin Jung, Andrea Bianchi. 2022. **Design of Virtual Reality Application for Interaction Prototyping Remote Education**. In _HCI Korea 2022_ (2022.02.09 - 02.11, **Best paper award** 🏆)
 
 ## 2021
 
