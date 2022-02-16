@@ -72,8 +72,6 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 
 ## Awards
 
-- **KAIST 2020 Technology Innovation Award (공과대학 2020 기술혁신 우수상)**
-- **Excellence Teaching Award Fall 2017** Industrial Design, KAIST
 - **Best Paper Award** UIST 2020
 - **Best Paper Award** TEI 2021
 - **Best Paper Award** MobileHCI 2013
@@ -87,6 +85,9 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 - **Best Poster Award** UIST 2016
 - **iF Design Award 2021** Mobile Clinic Module Control UX/UI
 - **IDSA 2021 Bronze Design Award** Mobile Clinic Module Control UX/UI
+- **KAIST 2020 Technology Innovation Award (공과대학 2020 기술혁신 우수상)**
+- **KAIST Breakthroughs Readers' Choice Award 2021** (College of Engineering)
+- **Excellence Teaching Award Fall 2017** Industrial Design, KAIST
 
 ## Academic Services
 
