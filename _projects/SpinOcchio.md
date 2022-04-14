@@ -17,14 +17,23 @@ featured: true
 
 This paper’s goal is to understand the haptic-visual congruency perception of skin-slip on the fngertips given visual cues in Vir- tual Reality (VR). We developed _SpinOcchio_ (Spin for the spinning mechanism used, Occhio for the Italian word “eye”), a handheld haptic controller capable of rendering the thickness and slipping of a virtual object pinched between two fngers. This is achieved using a mechanism with spinning and pivoting disks that apply a tangential skin-slip movement to the fngertips. With _SpinOcchio_, we determined the baseline haptic discrimination threshold for skin-slip, and, using these results, we tested how haptic realism of motion and thickness is perceived with varying visual cues in VR. Surprisingly, the results show that in all cases, visual cues dominate over haptic perception. Based on these results, we suggest applications that leverage skin-slip and grip interaction, contributing further to realistic experiences in VR.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qld0dN0p8P4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### References
 
 Myung Jin Kim, Neung Ryu, Wooje Chang, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2022. **SpinOcchio: Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller**. <i>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems CHI 2022</i>.
+
 
 <!-- DO NOT CHANGE MANUALLY -->
 
 <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
+
+---
+
+### Media Coverage
+
+This Controller Lets You Feel VR Objects Slip Between Your Fingers, and the Possibilities Are Endless on [GIZMODO](https://gizmodo.com/spinocchio-controller-lets-you-feel-vr-objects-slip-fin-1848787245).
 
 ---
 
