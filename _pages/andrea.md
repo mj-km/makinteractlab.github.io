@@ -119,17 +119,18 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 - IEEE World Haptics 2013 art chair
 - HAID 2013 poster chair
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4H6CQP6PaME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Teaching
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4H6CQP6PaME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **ID311 - Software Prototyping**
 
 - Fall: 2016, 2017
-- Spring: 2016, 2018-2021
+- Spring: 2016, 2018-2022
 
 **ID220 - Interaction Prototyping**
 
-- Fall: 2018-2021
+- Fall: 2018-2022
 
 **ID307 - Interface Design**
 
