@@ -23,7 +23,6 @@ This paper’s goal is to understand the haptic-visual congruency perception of 
 
 Myung Jin Kim, Neung Ryu, Wooje Chang, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2022. **SpinOcchio: Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller**. <i>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems CHI 2022</i>.
 
-
 <!-- DO NOT CHANGE MANUALLY -->
 
 <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
@@ -33,7 +32,9 @@ Myung Jin Kim, Neung Ryu, Wooje Chang, Michel Pahud, Mike Sinclair, and Andrea B
 
 ### Media Coverage
 
-This Controller Lets You Feel VR Objects Slip Between Your Fingers, and the Possibilities Are Endless on [GIZMODO](https://gizmodo.com/spinocchio-controller-lets-you-feel-vr-objects-slip-fin-1848787245).
+**This Controller Lets You Feel VR Objects Slip Between Your Fingers, and the Possibilities Are Endless** on [GIZMODO](https://gizmodo.com/spinocchio-controller-lets-you-feel-vr-objects-slip-fin-1848787245).
+
+**Mind-blowing metaverse controller lets you TOUCH objects in virtual reality and ‘feel them slip through your fingers’** on [The Sun](https://www.the-sun.com/tech/5125751/mind-blowing-metaverse-controller-touch/).
 
 ---
 
