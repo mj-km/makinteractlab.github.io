@@ -7,7 +7,7 @@ description: Interaction, Design, HCI, Haptics, VR, Digital Fabrication, Physica
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FaTROXhY3-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Our lab is among the few well-recognized and award-winning HCI labs in Korea working at the intersection of design and engineering. Please see our [publication list](./publications.html).
+Our lab is among the few well-recognized and award-winning HCI labs in Korea working at the intersection of design and engineering. Please see our [publications](./publications.html).
 
 Rooted in user-centered experience design, and with deep understanding and expertise in various engineering fields (computing, mechanical engineering, electronics), we explore emerging technologies in the areas of **novel tools for electronics and fabrication** and **metaverse and haptic augmentation**.
 
