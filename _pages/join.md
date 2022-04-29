@@ -15,10 +15,6 @@ Students are encouraged to apply by initially sending directly an <a href="#" on
 
 ID KAIST offers a **fully-funded** Master's program. The program is **research-oriented**, which means that on top of your coursework you are expected to conduct research. Master's applicants are assigned to labs **after** they have been granted admission to the department. If you are interested in our Master's program, please go ahead and apply [here](https://admission.kaist.ac.kr).
 
-## For international applicants
-
-- Like domestic candidates, international students are also **fully-funded**.
-- **English** is the official language used for courses and research. Knowing some Korean might help, but it is not necessary.
 
 ## Tips for your application
 
@@ -26,11 +22,16 @@ ID KAIST offers a **fully-funded** Master's program. The program is **research-o
 - Include material that **demonstrates your technical artistic capabilities**: this includes source code of projects, images or videos or prototypes, a personal website, previous research papers, videos you made, etc...
 - Make sure to take a **look at our previous research** projects: which project do you like and why? How do you suggest contributing to our lab?
 
-## Admission process
+### Admission process
 
 For the application process, please refer to the [KAIST admission site](https://admission.kaist.ac.kr).
 
 Labs cannot directly accept students. Instead, students interested in our graduate programs should apply to the department and indicate in which lab they would like to work (optional in the case of a Master's application). A committee composed of all the professors will judge each candidate and grant or deny admission through the reviewing process. Admitted graduate students receive a basic scholarship from KAIST and a salary from the lab, depending on the availability of projects and student involvement (minimum salary is guaranteed by law). For further questions please refer to these lists of Q&A for the [Master](http://id.kaist.ac.kr/index.php?mid=masterp#) and [Ph.D.](http://id.kaist.ac.kr/index.php?mid=phdp) programs.
+
+### For international applicants (Master's or Ph.D.)
+
+- Like domestic candidates, international students are also **fully-funded**.
+- **English** is the official language used for courses and research. Knowing some Korean might help, but it is not necessary.
 
 ## For perspective internships
 
