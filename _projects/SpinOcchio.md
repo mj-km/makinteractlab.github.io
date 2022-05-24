@@ -36,6 +36,8 @@ Myung Jin Kim, Neung Ryu, Wooje Chang, Michel Pahud, Mike Sinclair, and Andrea B
 
 **Mind-blowing metaverse controller lets you TOUCH objects in virtual reality and ‘feel them slip through your fingers’** on [The Sun](https://www.the-sun.com/tech/5125751/mind-blowing-metaverse-controller-touch/).
 
+**움직이는 가상물체 현실처럼 쥔다** on [전자신문](/files/2022/spinocchio_20220513_newspaper_p23.jpg) 2020.5.13.
+
 ---
 
 <a href="/index.html" class="button button--large">Back to projects</a>
