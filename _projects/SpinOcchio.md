@@ -21,7 +21,7 @@ This paper’s goal is to understand the haptic-visual congruency perception of 
 
 ### References
 
-Myung Jin Kim, Neung Ryu, Wooje Chang, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2022. **SpinOcchio: Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller**. <i>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems CHI 2022</i>.
+Myung Jin Kim, Neung Ryu, Wooje Chang, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2022. **SpinOcchio: Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller**. In CHI Conference on Human Factors in Computing Systems (_CHI '22_). Association for Computing Machinery, New York, NY, USA, Article 433, 1–14. DOI: [https://doi.org/10.1145/3491102.3517724](https://doi.org/10.1145/3491102.3517724)
 
 <!-- DO NOT CHANGE MANUALLY -->
 

@@ -44,9 +44,9 @@ description: Publications at MAKinteract lab
 
 ## 2022
 
-Myung Jin Kim, Neung Ryu KAIST, Wooje Chang, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2022. **SpinOcchio: Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller**. To appear in proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (_CHI'22_)
+Myung Jin Kim, Neung Ryu, Wooje Chang, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2022. **SpinOcchio: Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller**. In CHI Conference on Human Factors in Computing Systems (_CHI '22_). Association for Computing Machinery, New York, NY, USA, Article 433, 1–14. DOI: [https://doi.org/10.1145/3491102.3517724](https://doi.org/10.1145/3491102.3517724)
 
-Jaemin Shin, Seungjoo Lee, Taesik Gong, Hyungjun Yoon, Hyunchul Roh, Andrea Bianchi, Sung-Ju Lee. 2022. **MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame**. To appear in proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (_CHI'22_) (**Honorable mention award 🏅**)
+Jaemin Shin, Seungjoo Lee, Taesik Gong, Hyungjun Yoon, Hyunchul Roh, Andrea Bianchi, and Sung-Ju Lee. 2022. **MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame**. In CHI Conference on Human Factors in Computing Systems (_CHI '22_). Association for Computing Machinery, New York, NY, USA, Article 341, 1–17. DOI: [https://doi.org/10.1145/3491102.3502041](https://doi.org/10.1145/3491102.3502041)
 
 Hye-Young Jo, Wooje Chang, Hoonjin Jung, Andrea Bianchi. 2022. **Design of Virtual Reality Application for Interaction Prototyping Remote Education**. In _HCI Korea 2022_ (2022.02.09 - 02.11, **Best paper award** 🏆)
 
