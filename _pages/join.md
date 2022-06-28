@@ -3,18 +3,25 @@ title: Join us
 description: How to join the MAKinteract lab
 ---
 
+### We have openings for 1 fully-funded Ph.D. student starting Spring 2023
+
+We are excited to meet strong candidates with background and interest in Digital Fabrication, Electronics toolkits, large-scale haptic devices, robotics...
+
+To prospective students, _please check for more details below_.
+
+---
+
 ## For prospective Ph.D. students
 
 We are always looking for passionate students interested in our Ph.D. program and eager to work on topics such as **interactive systems and digital fabrication**. Ideal candidates should have some **prior research experience** (preferable in the field of HCI) and **proven technical capabilities** in designing or building interactive systems (e.g., programming, electronics, mechanical design and fabrication, user studies).
 
-We encourage students from a _variety of majors_ to apply. Current and past lab members came from diverse fields such as **design, art, business, architecture, computer science, and mechanical engineering**. 
+We encourage students from a _variety of majors_ to apply. Current and past lab members came from diverse fields such as **design, art, business, architecture, computer science, and mechanical engineering**.
 
 Students are encouraged to apply by initially sending directly an <a href="#" onclick="(function(){window.open('mailto:andrea@kaist.ac.kr');})()">email <i class="fas fa-envelope"></i></a> to professor Bianchi expressing the intention to formally apply. In your email include links to your personal website, examples of code from your repositories (e.g., a link to GitHub), titles of publications, or any other information that could help us see your potential as a researcher. Apply through [this link](https://admission.kaist.ac.kr).
 
 ## For Master's program applicants
 
 ID KAIST offers a **fully-funded** Master's program. The program is **research-oriented**, which means that on top of your coursework you are expected to conduct research. Master's applicants are assigned to labs **after** they have been granted admission to the department. If you are interested in our Master's program, please go ahead and apply [here](https://admission.kaist.ac.kr).
-
 
 ## Tips for your application
 
