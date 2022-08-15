@@ -48,7 +48,9 @@ Andrea Bianchi (Korean: 안두리) is an associate professor (tenured) in the De
 
 <img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage">
 
-Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) (Korea) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York startup. Andrea received a [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) (Korea) in 2012, an MS in Computer Science from [NYU](http://www.nyu.edu) (USA), and a Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) (Italy). Andrea has an _Erdős number_ of 3 and collects [eyeglasses](https://alsoplantsfly.kaist.id/images/pictures/profile/glasses.jpg).
+Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) (Korea) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York startup. Andrea received a [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) (Korea) in 2012, an MS in Computer Science from [NYU](http://www.nyu.edu) (USA), and a Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) (Italy). Andrea has an _Erdős number_ of 3 and collects [eyeglasses](https://www.dropbox.com/s/f9ckj7usmhk95b3/glasses.jpg?dl=0).
+
+{% assign prof = site.data.people[0] %}
 
 <div class="links">
 <!-- <a href="{{prof.homepage}}"><i class="fas fa-3x fa-home" aria-hidden="true"></i></a> -->
