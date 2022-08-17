@@ -4,9 +4,9 @@ subtitle: 'Localized and Sequential Shape-Changing Actuation of 3D-Printed Objec
 description: 'ShrinkCells: Localized and Sequential Shape-Changing Actuation of 3D-Printed Objects via Selective Heating'
 year: 2022
 featured_image: /images/projects/shrinkcells.png # width must be 1600px
-pdf_file:  # put file in the directory FILES
+pdf_file: # put file in the directory FILES
 doi_link: https://doi.org/
-featured: false
+featured: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rr4f10L2GA8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
