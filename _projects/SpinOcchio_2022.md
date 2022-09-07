@@ -1,6 +1,6 @@
 ---
 title: SpinOcchio
-subtitle: 'Bimanual Haptic Illusion of Physically Connected Objects for Immersive VR Using Grip Deformation'
+subtitle: 'Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller'
 description: 'Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller'
 year: 2022
 featured_image: /images/projects/spinocchio.png # width must be 1600px
